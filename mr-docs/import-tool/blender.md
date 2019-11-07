@@ -204,7 +204,8 @@ To start the process:
     
     
      > [!TIP]
-      > You can change the values of the Principled BSDF shader to achieve the material properties that fits your needs.  We suggest you start by keeping all the default values the same except for “Roughness” which should be changed from “0.4” to “0.3” as shown below.  This can be accomplished by clicking on the “Roughness” bar and typing in the value manually.  If you are not happy with this result, feel free to experiment with other value changes as well.  Starting with “roughness” and “metallic” will give you the most obvious changes.<br>![Blender Satin](media/Blender-Satin.PNG "Blender Satin") 
+      > You can change the values of the Principled BSDF shader to achieve the material properties that fits your needs.  We suggest you start by keeping all the default values the same except for “Roughness” which should be changed from “0.4” to “0.3” as shown below.  This can be accomplished by clicking on the “Roughness” bar and typing in the value manually. <br>
+      If you are not happy with this result, feel free to experiment with other value changes as well.  Adjusting “roughness” and “metallic” will produce the most obvious changes.  You can think of "roughness" as how smooth the 3D model will be, while "metallic" determines how reflective the 3D model will be. <br>![Blender Satin](media/Blender-Satin.PNG "Blender Satin") 
     
     
 14.	Select **3D Viewport** at the top left to go to the **3D Viewport** menu.
