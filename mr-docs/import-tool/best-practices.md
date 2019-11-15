@@ -27,7 +27,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 
 ## Reduce textures
 
-- Decrease the roughness map to increase the performance of the model.
+- Decrease the roughness map to increase the performance of the model. 
 
    > [!div class="mx-imgBorder"]
    > ![Decrease roughness map](media/roughness-map.PNG "Decrease roughness map") 
@@ -94,7 +94,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 
 - glTF will create one mesh per material and atlas materials together to reduce node count and draw calls.
 
-## Increase distance between geometry faces
+## Increase distance between geometry faces 
 
 - Flickering can occur when geometry faces are coplanar or nearly coplanar and is especially prevalent when the model is animated or moving from position to position in applications. This means the geometric faces are perfectly overlapping, causing what’s known as [Z-fighting](https://aka.ms/Zfighting).
 
