@@ -27,7 +27,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 
 ## Reduce textures
 
-- Decrease the roughness map to increase the performance of the model.
+- Decrease the roughness map to increase the performance of the model. 
 
    > [!div class="mx-imgBorder"]
    > ![Decrease roughness map](media/roughness-map.PNG "Decrease roughness map") 
