@@ -23,7 +23,7 @@ Corporation is not affiliated with, is not a partner to, and does not endorse or
 
 Autodesk Inventor is professional-grade 3D CAD software for product design and engineering. For more information, [see Autodesk Inventor](https://www.autodesk.com/products/inventor/overview). 
 
-## Optimize 3D models for mixed reality
+## Optimize 3D models for mixed reality 
 
 The first step is to remove any unneeded details in the 3D model. This vastly improves performance and increases the visual quality of the 3D model. Inventor has a tool called **Shrinkwrap** that can assist by removing fillets, chamfers, small parts, holes, and more.
 
@@ -41,7 +41,7 @@ The first step is to remove any unneeded details in the 3D model. This vastly im
 
     ![Select to Exclude option](media/inventor-select-to-exclude.PNG "Select to Exclude option") 
 
-4.	On the **Features** tab, you’ll see options to remove some or all features such as holes, fillets, pockets, and chamfers. This works the same as removing parts by size, but for features instead of entire parts. Experiment with these features to gain additional optimizations for your model. The results can be significant.
+4.	On the **Features** tab, you’ll see options to remove some or all features such as holes, fillets, pockets, and chamfers. This works the same as removing parts by size, but for features instead of entire parts. Experiment with these features to gain additional optimizations for your model. If your model has fillets, try removing them first.  This step alone can produce significant results.
 
     ![Features tab](media/inventor-features-tab.PNG "Features tab") 
  
@@ -97,7 +97,7 @@ Microsoft Dynamics 365 mixed reality applications use the GLB format for 3D mode
 
 - [SideFX Houdini](houdini.md)
 
-## View the 3D model in mixed reality
+## View the 3D model in mixed reality 
 
 After preparing the 3D
 model, you can learn more about using the following Microsoft Dynamics 365 applications to view your 3D model in mixed reality: 
